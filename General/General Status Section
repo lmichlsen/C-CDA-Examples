@@ -1,0 +1,30 @@
+﻿<section>
+<templateId root="2.16.840.1.113883.10.20.2.5" />
+<code code="10210-3"
+codeSystem="2.16.840.1.113883.6.1"
+codeSystemName="LOINC"
+displayName="GENERAL STATUS" />
+<title>GENERAL STATUS</title>
+<text>
+		<table border="1" width="100%">
+			<thead>
+				<tr>
+					<th>Observation Type</th>
+					<th>Date</th>
+					<th>Observation</th>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Body Build and Habitus</td>
+					<td>20191925</td>
+					<td>Obese</td>
+				</tr>
+				<tr>
+					<td>Demeanor</td>
+					<td>20191925</td>
+					<td>In good spirits</td>
+				</tr>
+			</tbody>
+		</table>
+</text>
+</section>
